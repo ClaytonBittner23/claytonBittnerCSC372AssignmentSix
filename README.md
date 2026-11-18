@@ -29,3 +29,8 @@ Endpoints:
 
     5: Adding a new question "http://localhost:3000/triviabook/question/add"
         This is the last endpoint and another POST endpoint. This takes the user provided values for topic, question, answer, and difficuilty and if they are all valid, adds them to the database. Since the id value is serial, postgress does this automatically. Once again, there is no frontend way to do this.
+
+    
+Link to Render Deployment:
+
+https://claytonbittnercsc372assignmentsix.onrender.com/triviabook/topics
